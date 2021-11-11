@@ -1,0 +1,12 @@
+h1 { width: 500px;height:400px;
+    background-color:salmon;
+    border-top:6px  double rgb(180, 250, 114);
+    border-right:6px double blue; 
+    border-bottom:6px double red;
+    border-left:6px double plum;  
+
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+   }
